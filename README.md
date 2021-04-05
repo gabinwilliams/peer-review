@@ -124,4 +124,12 @@ Notes on the above Functional Requirements.
 
 Notes on General Items
 
+Organization of your folder/components are super clean and clear.
+This made it super easy for me see what was going on where.
+
+Great job with using selects on each page to control what values users could enter.
+
+Simple and clean app, very easy to understand what I can and can't do.  Also mobile friendly as well.
+
+
 ```
